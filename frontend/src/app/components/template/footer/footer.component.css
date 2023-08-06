@@ -4,3 +4,8 @@
     display: flex;
     justify-content: end;
 }
+
+.footer > span{
+    font-size: 1.1rm;
+   font-weight: 300;
+}
