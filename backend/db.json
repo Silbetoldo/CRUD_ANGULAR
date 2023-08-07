@@ -34,6 +34,11 @@
       "name": "Teste",
       "price": "1.99",
       "id": 7
+    },
+    {
+      "name": "Caneta",
+      "price": "0.99",
+      "id": 8
     }
   ]
 }
