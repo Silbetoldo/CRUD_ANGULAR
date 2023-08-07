@@ -16,13 +16,13 @@
       "price": 5000.89
     },
     {
-      "name": "teste",
-      "price": 128.89,
+      "name": "Banana",
+      "price": "4.99",
       "id": 4
     },
     {
-      "name": "teste",
-      "price": 128.89,
+      "name": "Laranja",
+      "price": "5.99",
       "id": 5
     }
   ]

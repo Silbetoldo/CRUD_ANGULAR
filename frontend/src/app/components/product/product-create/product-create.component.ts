@@ -10,13 +10,13 @@ import { Product } from './product.model';
 })
 export class ProductCreateComponent implements OnInit {
 
+  product: Product = {
+    name: '',
+    price: 0
+  }
 
   constructor(private productService: ProductService, private router: Router) { }
 
-    product: Product = {
-    name: 'teste',
-    price: 128.89
-  }
   ngOnInit(): void {
 
   }
