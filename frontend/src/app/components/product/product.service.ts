@@ -21,9 +21,13 @@ export class ProductService {
          })
    }
 
-   //Chamada para o back-end
+   //Chamada para o back-end - Inserindo produtos 
    create(product: Product): Observable<Product>{
      return this.http.post<Product>(this.baseUrl, product )
+   }
+//Listando produtos
+   read(): Observable<Product[]>{
+    return this.http.get<Product[]>(this.baseUrl)
    }
 
 }

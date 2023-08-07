@@ -24,6 +24,16 @@
       "name": "Laranja",
       "price": "5.99",
       "id": 5
+    },
+    {
+      "name": "Maça",
+      "price": "3.99",
+      "id": 6
+    },
+    {
+      "name": "Teste",
+      "price": "1.99",
+      "id": 7
     }
   ]
 }
