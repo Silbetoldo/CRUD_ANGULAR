@@ -39,6 +39,16 @@
       "name": "Caneta",
       "price": "0.99",
       "id": 8
+    },
+    {
+      "name": "Boné",
+      "price": "9.99",
+      "id": 9
+    },
+    {
+      "name": "Caneca",
+      "price": "4.66",
+      "id": 10
     }
   ]
 }
