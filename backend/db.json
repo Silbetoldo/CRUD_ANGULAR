@@ -1,18 +1,8 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta Bic Azul",
-      "price": "5.90"
-    },
-    {
-      "id": 2,
-      "name": "Notebook Mac Pro Max",
-      "price": 12000.89
-    },
-    {
       "id": 3,
-      "name": "Samsung S@)",
+      "name": "Samsung Max",
       "price": 5000.89
     },
     {
@@ -54,16 +44,6 @@
       "name": "limão",
       "price": "0.99",
       "id": 11
-    },
-    {
-      "name": "",
-      "price": 0,
-      "id": 12
-    },
-    {
-      "name": "",
-      "price": 0,
-      "id": 13
     }
   ]
 }
