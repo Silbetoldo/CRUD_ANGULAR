@@ -39,36 +39,6 @@
       "name": "Caneta",
       "price": "0.99",
       "id": 8
-    },
-    {
-      "name": "Boné",
-      "price": "9.99",
-      "id": 9
-    },
-    {
-      "name": "Caneca",
-      "price": "4.66",
-      "id": 10
-    },
-    {
-      "name": "teste",
-      "price": 0,
-      "id": 11
-    },
-    {
-      "name": "teste1",
-      "price": "6.99",
-      "id": 12
-    },
-    {
-      "name": "Tênis da Sabrina",
-      "price": "79.90",
-      "id": 13
-    },
-    {
-      "name": "teste10",
-      "price": "9.99",
-      "id": 14
     }
   ]
 }
