@@ -1,9 +1,14 @@
 {
   "products": [
     {
-      "id": 3,
-      "name": "Samsung Max",
-      "price": 5000.89
+      "name": "Limão",
+      "price": "2.90",
+      "id": 1
+    },
+    {
+      "name": "Laranja",
+      "price": "4.99",
+      "id": 3
     },
     {
       "name": "Banana",
@@ -11,39 +16,19 @@
       "id": 4
     },
     {
-      "name": "Laranja",
-      "price": "5.99",
+      "name": "Banana",
+      "price": "2.99",
       "id": 5
     },
     {
-      "name": "Maça",
-      "price": "3.99",
+      "name": "Laranja",
+      "price": "4.99",
       "id": 6
     },
     {
-      "name": "Teste",
-      "price": "1.99",
+      "name": "Laranja",
+      "price": "4.99",
       "id": 7
-    },
-    {
-      "name": "Caneta",
-      "price": "0.99",
-      "id": 8
-    },
-    {
-      "name": "Melancia",
-      "price": "1.99",
-      "id": 9
-    },
-    {
-      "name": "Melancia",
-      "price": "1.99",
-      "id": 10
-    },
-    {
-      "name": "limão",
-      "price": "0.99",
-      "id": 11
     }
   ]
 }
