@@ -19,16 +19,6 @@
       "name": "Banana",
       "price": "2.99",
       "id": 5
-    },
-    {
-      "name": "Laranja",
-      "price": "4.99",
-      "id": 6
-    },
-    {
-      "name": "Laranja",
-      "price": "4.99",
-      "id": 7
     }
   ]
 }
